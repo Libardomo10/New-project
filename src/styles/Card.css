@@ -1,0 +1,63 @@
+.card {
+    border: solid;
+    border-radius: 8px;
+    background: linear-gradient(to right, #FBD5AC, #FBD5AC);
+}
+.card1 {
+    border: solid 1px ;
+    border-radius: 8px;
+    background: linear-gradient(to right, #FBD5AC, #FBD5AC);
+}
+.card-r {
+    border: solid 1px;
+    border-radius: 8px;
+    background: linear-gradient(to right, #6900af, #6900af);
+}
+.title {
+    color: white;
+}
+.Fitness-User-Info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.Fitness-Card {
+    margin-top: 5px;
+    max-height: 440px;
+    max-width: 720px;
+}
+.Fitness-Card-Info {
+    padding-left: 0;
+    padding-right: 75px;
+}
+.Fitness-Card-Info h1{
+    font-size: 23px;
+    color: white;
+}
+.Fitness-Card-Info p{
+    font-size: 11px;
+    color: white;
+}
+.Fitness-Add {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 60px;
+}
+.color1 {
+    color: orange;
+}
+.color2 {
+    color: #B8B8B8;
+}
+.imglogo {
+    height: "10";
+    width: "10";
+}
+.Fitness-Card1 {
+    margin-top: 5px;
+    max-height: 540px;
+    max-width: 842px;
+}
