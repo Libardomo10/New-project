@@ -1,2 +1,2 @@
-# New-project
+# My-app-react
 Primer proyecto
